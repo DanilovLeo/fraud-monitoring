@@ -1,0 +1,7 @@
+.venv
+.env
+*.DS_Store
+*.csv
+__pycache__/
+*.py[cod]
+catboost_info/
